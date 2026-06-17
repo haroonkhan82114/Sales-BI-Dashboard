@@ -73,4 +73,7 @@ Enables trend analysis and sales forecasting.
 Provides faster, data-driven decision-making for management.
 Portfolio Description
 
-Developed an interactive Power BI Sales Dashboard to track revenue, orders, customers, product performance, and category trends across multiple countries using KPI cards, DAX measures, and interactive visualizations for business intelligence reporting.
+Developed an interactive Power BI Sales Dashboard to track revenue, orders, customers, product performance, and category trends across multiple countries using KPI cards, DAX measures, and interactive visualizations for business intelligence reporting.   
+
+https://github.com/haroonkhan82114/Sales-BI-Dashboard/blob/main/Sales%20Power%20BI%20Dashboard.jpg
+
